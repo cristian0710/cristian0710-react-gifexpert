@@ -5,7 +5,7 @@ import GifGrid from "./components/GifGrid";
 
 const ClassAnimal = () => {
 
-    const[classAnimal, setClassAnimal] = useState(['goku']);
+    const[classAnimal, setClassAnimal] = useState(['tiger']);
 
     const onAddClassAnimal = (newClass) =>{
 
